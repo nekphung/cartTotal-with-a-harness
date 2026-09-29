@@ -12,6 +12,7 @@ format/lint) and CI running on push. -->
 
 ## Verification Commands
 - `npm test`: Runs the native test suite locally using `node --test`
+- Hello 
 
 ## Constraints & Guidelines
 - **NEVER** use external third-party dependencies/libraries in `src/cart.js`.
